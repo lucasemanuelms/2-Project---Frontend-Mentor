@@ -14,7 +14,8 @@ This is a little project I did to train my skills in HTML5 and CSS3. It's a desi
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](images/Desktop-workflow.png)
+![](images/Mobile-workflow.png)
 
 ### Built with
 
